@@ -34,7 +34,7 @@ export default function Header() {
           <span className="h-4 w-px bg-black/10" />
           <div className="flex items-center gap-2">
             <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-            <span className="text-[10px] font-bold uppercase tracking-wider opacity-60">UTFPR / PG (EAD)</span>
+            <span className="text-[10px] font-bold uppercase tracking-wider opacity-60">UTFPR / PG</span>
           </div>
         </motion.nav>
       </div>

@@ -27,7 +27,7 @@ export default function App() {
                 className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white border border-black/5 text-[10px] font-bold uppercase tracking-widest text-black/40 mb-8"
               >
                 <Sparkles className="w-3 h-3 text-brand-yellow" />
-                LCOMP • UTFPR • Ponta Grossa (EAD)
+                LCOMP • UTFPR • Ponta Grossa
               </motion.div>
               
               <motion.h2
@@ -169,7 +169,7 @@ export default function App() {
             </div>
           </div>
           <div className="pt-12 border-t border-black/5 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] font-bold uppercase tracking-widest text-black/30">
-            <p>&copy; {new Date().getFullYear()} LCOMP UTFPR - Ponta Grossa (EAD)</p>
+            <p>&copy; {new Date().getFullYear()} LCOMP UTFPR - Ponta Grossa</p>
           </div>
         </div>
       </footer>
